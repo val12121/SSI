@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"422e5bec5d64e49d","type":"text","text":"Amenazas","x":0,"y":-120,"width":175,"height":60,"color":"1"},
+		{"id":"b1c0de85ff5305dc","type":"text","text":"Intrusos","x":225,"y":-115,"width":135,"height":50},
+		{"id":"6e9f7ee68531d233","type":"text","text":"Siniestros físicos","x":101,"y":5,"width":148,"height":55},
+		{"id":"bb40d79415423716","type":"text","text":"Usuarios","x":-80,"y":5,"width":148,"height":55},
+		{"id":"4e500eca8501ca7e","type":"text","text":"Phishing","x":8,"y":-220,"width":160,"height":50},
+		{"id":"de8240ca33fe9831","type":"text","text":"Malware","x":-200,"y":-115,"width":140,"height":50}
+	],
+	"edges":[
+		{"id":"e98d08b3e0edc835","fromNode":"422e5bec5d64e49d","fromSide":"bottom","toNode":"bb40d79415423716","toSide":"top"},
+		{"id":"32bf985ddb88c198","fromNode":"422e5bec5d64e49d","fromSide":"right","toNode":"b1c0de85ff5305dc","toSide":"left"},
+		{"id":"70419de74efb512f","fromNode":"422e5bec5d64e49d","fromSide":"left","toNode":"de8240ca33fe9831","toSide":"right"},
+		{"id":"06efb51857837f0a","fromNode":"422e5bec5d64e49d","fromSide":"bottom","toNode":"6e9f7ee68531d233","toSide":"top"},
+		{"id":"bb3e6a13510cc117","fromNode":"422e5bec5d64e49d","fromSide":"top","toNode":"4e500eca8501ca7e","toSide":"bottom"}
+	]
+}

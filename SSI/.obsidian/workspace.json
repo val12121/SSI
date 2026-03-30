@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d389086cb6fe5647",
+        "id": "d9c1afbb23a42dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "9d11267a2a13ccf9",
+            "id": "7d3ad2344a9b6b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo I.md",
+                "file": "Tema 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulo I"
+              "title": "Tema 3"
             }
           }
         ]
@@ -65,6 +65,23 @@
             }
           },
           {
+            "id": "840052d0d3e7c273",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mapa Conceptual.canvas",
+                "viewState": {
+                  "x": 80,
+                  "y": -80,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa Conceptual"
+            }
+          },
+          {
             "id": "b5ab173c50937760",
             "type": "leaf",
             "state": {
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "915cc1acf665d579",
@@ -94,9 +111,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modulo I.md",
+                "file": "Tema 3.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Modulo I"
+              "title": "Enlaces entrantes de Tema 3"
             }
           },
           {
@@ -156,21 +173,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modulo I.md",
+                "file": "Tema 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Modulo I"
+              "title": "Esquema de Tema 3"
+            }
+          },
+          {
+            "id": "d8bd9d8a4f28e0be",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "1ef7ef79dab7be0e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +217,16 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "github-sync:Sync with Remote": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "9d11267a2a13ccf9",
+  "active": "7d3ad2344a9b6b0a",
   "lastOpenFiles": [
-    "Modulo I.md"
+    "Mapa Conceptual.canvas",
+    "Tema 3.md",
+    "Seguridad.md",
+    "Definiciones"
   ]
 }
